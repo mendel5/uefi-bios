@@ -14,6 +14,7 @@ Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader 
 - https://gamingtechies.com/best-bios-setting/
 - https://linustechtips.com/topic/1373266-which-uefibios-settings-we-should-change-when-setting-up-a-new-computer/
 - https://www.pcmag.com/how-to/bios-basics-how-to-configure-your-pcs-firmware-for-first-use
+- https://www.pcgamer.com/how-to-a-guide-to-bios-settings/
 - https://www.quora.com/What-are-the-best-BIOS-settings-for-gaming
 - https://www.youtube.com/watch?v=BgWq6__3jXM Default BIOS Settings Hinder Your Gaming Performance: Project SeVeN
 - https://www.youtube.com/watch?v=ezubjTO7rRI PC BIOS Settings
