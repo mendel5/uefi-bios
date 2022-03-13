@@ -22,4 +22,5 @@ Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader 
 - https://www.youtube.com/watch?v=ezubjTO7rRI PC BIOS Settings
 
 ## Todo
-- Which buttons to press for which mainboard manufacturer to enter the UEFI BIOS
+- Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
+  - F2, F10, F12, ESC, DEL?
