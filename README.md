@@ -26,4 +26,4 @@ Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader 
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
   - F2, F10, F12, ESC, DEL?
-- What is: AGESA, Chipset drivers, BIOS
+- What is: AGESA, Chipset drivers, BIOS, Firmware
