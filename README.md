@@ -22,6 +22,9 @@ Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader 
 - https://www.youtube.com/watch?v=ezubjTO7rRI PC BIOS Settings
 - https://www.computerbase.de/2022-03/amd-ryzen-chipsatztreiber-4-03-03-431/ AM4, sTRX4 und sWRX8: Ryzen-Chipsatztreiber mit neuen Paketen erschienen
 - https://www.computerbase.de/2022-02/amd-ryzen-agesa-1205-firmware-probleme/ AGESA v2 1.2.0.5 für AMD Ryzen: Neueste Firmware ist nur mit Vorsicht zu installieren
+- https://www.computerbase.de/thema/chipsatz/
+- https://www.computerbase.de/thema/firmware/
+- https://www.computerbase.de/thema/treiber/
 
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
