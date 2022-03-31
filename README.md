@@ -10,6 +10,31 @@ The earliest UEFI that I've seen looked like a legacy BIOS with "UEFI Boot" opti
 Nowadays, most desktop board manufacturers just use AMI's Aptio UEFI BIOS and put their own UI on top of it.
 Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader is signed with a trusted key. By default, most BIOSes come with only Microsoft's keys in their keystores, but you can easily add your own keys. Also, modern versions of Ubuntu (and probably Linux Mint as well) come with signed bootloaders which can boot with Secure Boot enabled without any modification.
 
+## Other
+--> Move to: https://github.com/mendel5/uefi-bios
+
+Does my operating system run in UEFI-BIOS mode or Legacy-BIOS mode?
+```
+[ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
+```
+
+List all partitions:
+```
+lsblk
+```
+
+Sources:
+- https://askubuntu.com/questions/162564/how-can-i-tell-if-my-system-was-booted-as-efi-uefi-or-bios
+- https://unix.stackexchange.com/questions/157154/how-to-list-disks-partitions-and-filesystems-in-linux
+- https://www.cyberciti.biz/faq/linux-list-disk-partitions-command/
+
+More links:
+- https://dannyda.com/2021/05/05/how-to-find-out-if-the-ubuntu-20-04-1-lts-os-disk-is-mbr-or-gpt-for-linux-debian-kali-linux-centos-fedora-etc-steps-are-very-similar-with-slightly-different-commands/
+- https://dannyda.com/2021/05/07/how-to-convert-ubuntu-20-04-1-lts-os-disk-from-mbr-to-gpt-gpt-to-mbr-without-losing-data/
+- https://dannyda.com/2021/05/08/how-to-convert-ubuntu-20-04-1-lts-from-bios-to-uefi/
+- https://sourceforge.net/projects/boot-repair-cd/files/
+
+
 ## Links
 - https://gamingtechies.com/best-bios-setting/
 - https://linustechtips.com/topic/1373266-which-uefibios-settings-we-should-change-when-setting-up-a-new-computer/
