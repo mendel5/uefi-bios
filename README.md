@@ -10,10 +10,10 @@ The earliest UEFI that I've seen looked like a legacy BIOS with "UEFI Boot" opti
 Nowadays, most desktop board manufacturers just use AMI's Aptio UEFI BIOS and put their own UI on top of it.
 Secure Boot isn't vendor locked. You can boot any OS as long as it's bootloader is signed with a trusted key. By default, most BIOSes come with only Microsoft's keys in their keystores, but you can easily add your own keys. Also, modern versions of Ubuntu (and probably Linux Mint as well) come with signed bootloaders which can boot with Secure Boot enabled without any modification.
 
-## Other
---> Move to: https://github.com/mendel5/uefi-bios
+## Does my operating system run in UEFI-BIOS mode or Legacy-BIOS mode?
 
-Does my operating system run in UEFI-BIOS mode or Legacy-BIOS mode?
+### Linux
+Does my GNU/Linux system run in UEFI-BIOS mode or Legacy-BIOS mode?
 ```
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
 ```
@@ -34,6 +34,8 @@ More links:
 - https://dannyda.com/2021/05/08/how-to-convert-ubuntu-20-04-1-lts-from-bios-to-uefi/
 - https://sourceforge.net/projects/boot-repair-cd/files/
 
+### Windows
+To-do
 
 ## Links
 - https://gamingtechies.com/best-bios-setting/
