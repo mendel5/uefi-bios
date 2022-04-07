@@ -53,6 +53,7 @@ To-do
 - https://www.computerbase.de/thema/chipsatz/
 - https://www.computerbase.de/thema/firmware/
 - https://www.computerbase.de/thema/treiber/
+- https://old.reddit.com/r/linuxquestions/comments/telnzf/want_to_switch_to_linux_permanantly_now_that/ Extract Windows license key from UEFI/BIOS via Linux terminal
 
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
