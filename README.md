@@ -37,6 +37,18 @@ More links:
 ### Windows
 To-do
 
+## How can I test if secureboot is enabled?
+
+### Linux
+```
+mokutil --sb-state
+```
+Source:
+- https://access.redhat.com/articles/5337691
+
+### Windows
+To-do
+
 ## Links
 - https://gamingtechies.com/best-bios-setting/
 - https://linustechtips.com/topic/1373266-which-uefibios-settings-we-should-change-when-setting-up-a-new-computer/
