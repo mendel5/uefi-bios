@@ -49,7 +49,7 @@ Source:
 ### Windows
 To-do
 
-## Links
+## Links 1
 - https://gamingtechies.com/best-bios-setting/
 - https://linustechtips.com/topic/1373266-which-uefibios-settings-we-should-change-when-setting-up-a-new-computer/
 - https://www.pcmag.com/how-to/bios-basics-how-to-configure-your-pcs-firmware-for-first-use
@@ -66,6 +66,13 @@ To-do
 - https://www.computerbase.de/thema/firmware/
 - https://www.computerbase.de/thema/treiber/
 - https://old.reddit.com/r/linuxquestions/comments/telnzf/want_to_switch_to_linux_permanantly_now_that/ Extract Windows license key from UEFI/BIOS via Linux terminal
+
+## Links 2
+- https://askubuntu.com/questions/893421/command-to-reset-nvram
+- https://superuser.com/questions/1705973/add-efi-partition-to-bios-menu-after-nvram-reset
+- https://github.com/johnko/ubuntu-14.04.2-desktop-amd64-intel-compute-stick/blob/master/doc/reset-nvram.md
+- https://www.linuxbabe.com/command-line/how-to-use-linux-efibootmgr-examples
+- https://askubuntu.com/questions/655260/cannot-boot-into-ubuntu-after-resetting-nvram-on-imac
 
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
