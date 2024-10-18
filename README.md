@@ -77,6 +77,7 @@ To-do
 ## Links 3
 - https://forums.linuxmint.com/viewtopic.php?t=424779
 - https://forums.linuxmint.com/viewtopic.php?t=426474
+- https://forums.linuxmint.com/viewtopic.php?t=425443&start=20
 
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
