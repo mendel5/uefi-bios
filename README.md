@@ -74,6 +74,10 @@ To-do
 - https://www.linuxbabe.com/command-line/how-to-use-linux-efibootmgr-examples
 - https://askubuntu.com/questions/655260/cannot-boot-into-ubuntu-after-resetting-nvram-on-imac
 
+## Links 3
+- https://forums.linuxmint.com/viewtopic.php?t=424779
+- https://forums.linuxmint.com/viewtopic.php?t=426474
+
 ## Todo
 - Which buttons to press for which mainboard manufacturer to (a) enter the UEFI BIOS and (b) enter the boot menu
   - F2, F10, F12, ESC, DEL?
